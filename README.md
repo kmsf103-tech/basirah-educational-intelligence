@@ -281,6 +281,7 @@ basirah-educational-intelligence/
 
 [أكاديمية سدايا](https://sdaia.gov.sa/ar/Sectors/academy/Pages/student.aspx)
 
+https://github.com/SDAIAAcademy
 ---
 
 **المشروع:** بصيرة – مساعد ذكاء الأداء التعليمي  
